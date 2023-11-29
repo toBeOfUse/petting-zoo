@@ -18,7 +18,7 @@ onMounted(getAnimals);
 .zoo {
   display: flex;
   justify-content: space-between;
-  background-image: url(field.jpg);
+  background-image: url(/field.jpg);
   background-position: center center;
   background-size: cover;
 }
