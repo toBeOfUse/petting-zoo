@@ -1,7 +1,7 @@
 <template>
   <div class="p-4">
     <div style="display: flex; gap: 15px; align-items: center">
-      <img style="height: 70px; filter: blur(1px)" src="logo.jpg" />
+      <img style="height: 70px; filter: blur(1px)" src="/logo.jpg" />
       <h1 class="title">Login to enter the petting zoo:</h1>
     </div>
 
